@@ -1,6 +1,4 @@
-
-README
-# **Transfer Learning for Image Classification**
+# **Create Your Own Image Classifier**
 
 ![Cover](./assets/cover.png)
 
