@@ -1,6 +1,6 @@
 # **Create Your Own Image Classifier**
 
-![Cover](./assets/cover.png)
+![Cover](./assets/Flowers.png)
 
 ---
 
