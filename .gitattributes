@@ -1,3 +1,3 @@
 *.css linguist-detectable=false
-*.py linguist-detectable=true
-*.ipynb linguist-detectable=true
+*.python linguist-detectable=true
+*.jupyternotebook linguist-detectable=true
